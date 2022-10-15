@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594769897836",
+    "project_id": "fcm-token-c9701",
+    "storage_bucket": "fcm-token-c9701.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594769897836:android:2fe8f3021d1cc03487eb49",
+        "android_client_info": {
+          "package_name": "com.example.fcm_token"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594769897836-07sstemu8accbfthldbfur7hefj0f0es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKFNtwAmCsGFg-IVMtqZheozjlNNDBRRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594769897836-07sstemu8accbfthldbfur7hefj0f0es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
